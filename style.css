@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.banner-text{
+    text-align: center;
+    color: #45503b
+    padding-top: 180px;
+}
+.banner-text h1{
+    font-size: 50px;
+}
+.banner-text p{
+    font-size: 25px;
+    font-style: oblique;
+}
